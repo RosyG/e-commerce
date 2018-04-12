@@ -1,20 +1,6 @@
 # Ecommerce
-Web page en la que se pueden hacer compras de articulos para mujeres.
+Web page en la que se pueden realizar compras de articulos para mujeres.
 ![Vista](./assets/view.png)
-
-## Previo al código.
-1. Subir la estructura de carpetas con el comando `git add .`, `git commit -m "comentario"` y `git push origin master`
-2. El resto del equipo deberá hacer fork del repositorio [master](https://github.com/arintaosorio/e-commerce.git).
-
-## Herramientas tecnológicas utilizadas:
-
-    * [Firebase](https://firebase.google.com/)
-    * [API PayPal](https://developer.paypal.com/)
-    * [API mercado libre](https://developers.mercadolibre.com.ar/)
-    * [materialize](http://materializecss.com/)
-    * [Icomoon](https://icomoon.io/)
-    * [Browserify](http://browserify.org/)
-    * [Stylus](http://stylus-lang.com/)
 
 ## En este proyecto se aplican los siguientes conceptos.
     - Templating
@@ -31,4 +17,20 @@ Web page en la que se pueden hacer compras de articulos para mujeres.
     4. Se utilizó la API de PayPal para el método de pago que se encuentra en la vista checkout, que es donde se muestran todos los productos a comprar, y una vez que se realiza el pago la api nos regresa un número de confirmación de pago con folio para poder rastrear la transacción.
     5. Como segundo alcance se desear implementar el routing de URLS para hacer más dinámica y rápida la página.
 
-# Desarrollado para [Laboratoria](http://www.laboratoria.la/)
+## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
+
+## Previo al código.
+1. Subir la estructura de carpetas con el comando `git add .`, `git commit -m "comentario"` y `git push origin master`
+2. El resto del equipo deberá hacer fork del repositorio [master](https://github.com/arintaosorio/e-commerce.git).
+
+## Herramientas tecnológicas utilizadas:
+
+[Firebase](https://firebase.google.com/)
+
+[API PayPal](https://developer.paypal.com/)
+
+[API mercado libre](https://developers.mercadolibre.com.ar/)
+
+[materialize](http://materializecss.com/)
+
+[Icomoon](https://icomoon.io/)
