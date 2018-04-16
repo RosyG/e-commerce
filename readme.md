@@ -1,6 +1,6 @@
 # Ecommerce
 Web page en la que se pueden realizar compras de articulos para mujeres.
-![Vista](./assets/view.png)
+![Vista](https://raw.githubusercontent.com/RosyG/e-commerce/master/assets/view.png)
 
 ## En este proyecto se aplican los siguientes conceptos.
     - Templating
